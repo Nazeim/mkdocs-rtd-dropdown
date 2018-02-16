@@ -1,5 +1,5 @@
 site_name: ReadTheDocs Dropdown
-theme: readthedocs
+theme: readthedocs-dropdown
 pages:
     - MkDocs: index.md
     - User Guide:
