@@ -1,9 +1,8 @@
 site_name: ReadTheDocs Dropdown
-theme: readthedocs
+theme: readthedocs-dropdown
 pages:
     - MkDocs: index.md
     - User Guide:
-        - Configuration: user-guide/configuration.md
         - Custom themes: user-guide/custom-themes.md
         - Plugins: user-guide/plugins.md
     - About:
