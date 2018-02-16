@@ -1,5 +1,5 @@
 site_name: ReadTheDocs Dropdown
-theme: rtd-dropdown
+theme: readthedocs
 pages:
     - User Guide:
         - Custom themes: user-guide/custom-themes.md
