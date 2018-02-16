@@ -12,7 +12,6 @@ pages:
         - Instructions: user-guide/instructions.md
         - Configuration: user-guide/configuration.md
         - Custom themes: user-guide/custom-themes.md
-        - Plugins: user-guide/plugins.md
     - About:
         - Release Notes: about/release-notes.md
         - Contributing: about/contributing.md
