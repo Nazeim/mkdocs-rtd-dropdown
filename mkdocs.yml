@@ -3,7 +3,6 @@ theme: ReadTheDocs-Dropdown
 pages:
     - MkDocs: index.md
     - User Guide:
-        - Instructions: user-guide/instructions.md
         - Configuration: user-guide/configuration.md
         - Custom themes: user-guide/custom-themes.md
         - Plugins: user-guide/plugins.md
