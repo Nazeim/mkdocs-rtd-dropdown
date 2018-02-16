@@ -1,7 +1,7 @@
 site_name: ReadTheDocs Dropdown
 theme: readthedocs-dropdown
 pages:
-    - MkDocs: index.md
+    
     - User Guide:
         - Custom themes: user-guide/custom-themes.md
         - Plugins: user-guide/plugins.md
