@@ -8,5 +8,3 @@ pages:
         - Release Notes: about/release-notes.md
         - Contributing: about/contributing.md
         - License: about/license.md
-
-google_analytics: ['UA-10006093-5', 'readthedocs.sheets.ch']
